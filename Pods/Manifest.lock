@@ -1,0 +1,32 @@
+PODS:
+  - AEXML (4.2.2)
+  - Alamofire (4.6.0)
+  - AlamofireNetworkActivityLogger (2.2.0):
+    - Alamofire (~> 4.0)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - ObjectMapper (3.1.0)
+  - StringExtensionHTML (0.2.0)
+  - SWXMLHash (4.4.1)
+
+DEPENDENCIES:
+  - AEXML
+  - Alamofire
+  - AlamofireNetworkActivityLogger
+  - AlamofireObjectMapper
+  - StringExtensionHTML
+  - SWXMLHash
+
+SPEC CHECKSUMS:
+  AEXML: 5ebafc1b75e0bcf0f1b09b8ca8fed2d5a199479b
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AlamofireNetworkActivityLogger: a7ae1842988b3f6248a49213268375bd27b515f0
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  StringExtensionHTML: 80fdb1b3a83669e371d27bfe2f208f067e2db328
+  SWXMLHash: 93e01dafa5ea11c21aa34ad5bd6714dd72f70c2a
+
+PODFILE CHECKSUM: 3be1ad258e36e2140621f6d81abf6ebedc341c15
+
+COCOAPODS: 1.4.0
